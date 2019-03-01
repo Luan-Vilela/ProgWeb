@@ -1,0 +1,52 @@
+/* Reseta corpo do html em todos os navegadores */
+body{
+	margin: 0;
+	padding: 0;
+}
+.cabecalho{
+	width: 960px;
+	min-height: 220px;
+	margin: 14px auto;
+	border: 2px solid black;
+	padding: 12px;
+}
+.foto{
+	float: left;
+	margin-right: 10px;
+}
+.identificacao{
+	float: right;
+	width: 776px;
+	padding: 10px;
+	min-height: 180px;
+	border: 1px solid black;
+}
+.apresentacao{
+	min-height: 200px;
+	border: 2px solid black;
+	padding: 10px;
+}
+.formatacao{
+	min-height: 260px;
+}
+.academica{
+	width: 90%;
+	margin: 10px auto;
+	min-height: 30px;
+	border: 2px dashed #c6c6c6;
+}
+.extra{
+	width: 90%;
+	margin: 10px auto;
+	min-height: 30px;
+	border: 2px dashed #c6c6c6;
+}
+.info{
+	min-height: 45px;
+	border: 2px solid black;
+}
+div.foto img{
+	max-width: 150px;
+	max-height: 200px;
+	border: 1px solid black;
+}
